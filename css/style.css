@@ -4,6 +4,8 @@
 }
 h1 {
   margin-bottom: 15px;
+  text-align: center; 	
+	
 }
 section {
   border: 1px solid black;
@@ -16,7 +18,7 @@ section {
   color: black;
   position: relative;
   padding: 15px;
-  overflow: hidden;
+  overflow: auto;
 
 }
 .title {
