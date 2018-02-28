@@ -12,8 +12,7 @@ section {
   background-color: #eeeeee;
   width: 90%;
   height: 180px;
-  margin-right: auto;
-  margin-left: auto;
+  margin:10px;
   font-family: Helvetica;
   color: black;
   position: relative;
