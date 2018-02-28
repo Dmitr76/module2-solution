@@ -15,7 +15,9 @@ section {
   font-family: Helvetica;
   color: black;
   position: relative;
-  padding: 15px
+  padding: 15px;
+  overflow: hidden;
+
 }
 .title {
   position: absolute;
