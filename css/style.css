@@ -23,6 +23,7 @@ section {
 }
 .title {
   border: 1px solid black;
+  margin: 0;
   position: absolute;
   top: 0;
   right: 0;
