@@ -74,7 +74,7 @@ main {
     width: 25%;
   }
   .col-lg-4 {
-    width: 33.33%;
+    width: 30%;
   }
   .col-lg-5 {
     width: 41.66%;
@@ -123,7 +123,7 @@ main {
     width: 41.66%;
   }
   .col-md-6 {
-    width: 50%;
+    width: 46%;
   }
   .col-md-7 {
     width: 58.33%;
@@ -141,6 +141,6 @@ main {
     width: 91.66%;
   }
   .col-md-12 {
-    width: 100%;
+    width: 94.5%;
   }
 }
