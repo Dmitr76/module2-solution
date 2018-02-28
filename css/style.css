@@ -37,7 +37,18 @@ main {
   text-align: justify;
   padding-bottom: 10px;
 } 
-	
+
+#chicken {
+  background-color: #cccc77;
+}	
+
+#beef {
+  background-color: #77cc77;
+}
+
+#sushi {
+  background-color: #cc77cc;
+}
 
 /* Simple Responsive Framework. */
 .row {
