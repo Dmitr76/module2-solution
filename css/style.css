@@ -20,7 +20,8 @@ section {
   position: absolute;
   top: 0;
   right: 0;
-  background-color: #000033;
+  background-color: Yellow;
+  width: 50px;
 }
 /* Simple Responsive Framework. */
 .row {
